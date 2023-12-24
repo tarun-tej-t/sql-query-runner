@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sql-query-runner/static/css/main.4d932cd4.css",
+    "main.js": "/sql-query-runner/static/js/main.ff01315b.js",
+    "static/js/787.6522bf8b.chunk.js": "/sql-query-runner/static/js/787.6522bf8b.chunk.js",
+    "index.html": "/sql-query-runner/index.html",
+    "main.4d932cd4.css.map": "/sql-query-runner/static/css/main.4d932cd4.css.map",
+    "main.ff01315b.js.map": "/sql-query-runner/static/js/main.ff01315b.js.map",
+    "787.6522bf8b.chunk.js.map": "/sql-query-runner/static/js/787.6522bf8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d932cd4.css",
+    "static/js/main.ff01315b.js"
+  ]
+}
